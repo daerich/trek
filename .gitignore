@@ -1,0 +1,13 @@
+*.o
+trek
+!trek.6
+!trek.h
+CVS/
+Makefile
+!Makefile.bsd
+!Makefile.in
+configure
+!configure.ac
+*.log
+*.status
+*.cache
